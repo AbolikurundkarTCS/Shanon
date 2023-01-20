@@ -13,7 +13,7 @@ public class Homepage1 {
 	public String verifyText() {
 		String actText=text.getText();
 		return actText;
-		
+		System.out.println("Github sucessfully installed");
 	}
 
 }
